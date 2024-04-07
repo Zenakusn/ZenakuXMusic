@@ -1,8 +1,8 @@
 {
-    "name": "╰ϝσɾႦιԃԃҽɳ ✘ ɱυʂιƈ╯",
-    "repository": "https://github.com/Zenaku10/AnonXMusic",
+    "name": "╰ᴢᴇɴᴀᴋᴜ ✘ ᴍᴜsɪᴄ╯",
+    "repository": "https://github.com/Zenakusn/ZenakuXMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24795599",
+        "value": "21248697",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "b5bf7b421f0d4d84babda392dcf38e0c",
+        "value": "88d33cb64a1d77cb6189233cf74aa51f",
         "required": true
       },
       "BOT_TOKEN": {
@@ -65,7 +65,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002020845157",
+        "value": "-1002016915736",
         "required": true
       }
     },
