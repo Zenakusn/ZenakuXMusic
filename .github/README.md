@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ╰•★★ ʄơཞცıɖɖɛŋ ɱųʂıƈ ★★•╯ 」──
+    ──「 ᴢᴇɴᴀᴋᴜ ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d3155071c396bc9883f5f.jpg">
+  <img src="https://te.legra.ph/file/98fab51adb45a199bbaef.jpg">
 </p>
 
 <p align="center">
@@ -15,20 +15,20 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d3155071c396bc9883f5f.jpg">
+  <img src="https://te.legra.ph/file/98fab51adb45a199bbaef.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Zenaku10/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Zenaku10/ZenakuXnMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Zenaku10/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Zenakusn/ZenakuXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Zenaku10/AnonXMusic && cd AnonXMusic`
+`git clone https://github.com/Zenakusn/ZenakuXMusic && cd AnonXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
