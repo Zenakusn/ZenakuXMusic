@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ohmyqueenmedusa:ohmyqueenme
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1200))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002020845157"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002016915736"))
 
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 1318826936))
@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Zenaku10/AnonXMusic",
+    "https://github.com/Zenakusn/ZenakuXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,15 +78,15 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/98fab51adb45a199bbaef.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/d3155071c396bc9883f5f.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
